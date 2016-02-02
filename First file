@@ -1,3 +1,7 @@
 catjs
 alert("hello");
 alert("david");
+var newfiles = 8;
+var allfiles = [newfiles, 16, 24];
+
+
